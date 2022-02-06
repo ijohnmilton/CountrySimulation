@@ -1,0 +1,11 @@
+Resource,Weight,Notes
+R1,0,analog to population
+R2,0,analog to metalic elements
+R3,0,analog to timber
+R4,0.2,analog to metallic alloys
+R5,0.5,analog to electronics
+R6,0.8,analog to housing
+R7,-0.5,waste
+R8,-0.8,waste
+R9,-0.4,waste
+R10,-0.2,waste
