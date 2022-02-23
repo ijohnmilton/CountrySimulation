@@ -1,6 +1,6 @@
-Country,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10
-Atlantis,20,12,10,20,10,5,9,40,1,24
-Dinotopoia,15,0,2,60,0,0,10,4,2,56
-Erewhon,21,2,3,40,0,30,26,2,0,43
-King's Landing,80,3,4,30,0,15,35,3,0,23
-The Vale,43,1,5,10,0,12,30,4,0,10
+Country,population,food,water,land,timber,housing,metallic alloy,electronics,potential fossil energy,potential fossil usable,community buildings,jobs,high school education,college education,universities,nobel prizes,marriages,children,renewable energy,food waste,water waste,land waste,timber waste,housing waste,metallicAlloy waste,electronics waste,potential fossil energy waste,renewable energy waste
+Atlantis,20,12,10,20,10,5,9,40,1,24,20,10,2,12,20,10,2,10,3,20,8,10,4,3,12,14,10,10
+Dinotopoia,15,0,2,60,0,0,10,4,2,56,30,2,4,2,30,20,3,20,2,10,2,0,5,9,3,23,23,3
+Erewhon,21,2,3,40,0,30,26,2,0,43,10,3,3,4,10,30,20,30,10,2,1,0,6,1,9,34,33,2
+King's Landing,80,3,4,30,0,15,35,3,0,23,20,4,8,3,20,10,10,10,3,3,9,3,1,0,8,52,4,3
+The Vale,43,1,5,10,0,12,30,4,0,10,30,20,10,9,30,90,40,100,2,4,0,2,2,24,1,10,1,1
