@@ -1,6 +1,6 @@
 Country,population,food,water,land,timber,housing,metallic element,metallic alloy,electronics,potential fossil energy,potential fossil usable,community buildings,jobs,high school education,college education,universities,nobel prizes,marriages,children,renewable energy,food waste,water waste,land waste,timber waste,housing waste,metallicAlloy waste,electronics waste,potential fossil energy waste,renewable energy waste
-Atlantis,20,12,10,20,10,5,3,9,40,1,24,20,10,2,12,20,10,2,10,3,20,8,10,4,3,12,14,10,10
-Dinotopoia,15,0,2,60,0,0,4,10,4,2,56,30,2,4,2,30,20,3,20,2,10,2,0,5,9,3,23,23,3
-Erewhon,21,2,3,40,0,30,5,26,2,0,43,10,3,3,4,10,30,20,30,10,2,1,0,6,1,9,34,33,2
-King's Landing,80,3,4,30,0,15,1,35,3,0,23,20,4,8,3,20,10,10,10,3,3,9,3,1,0,8,52,4,3
-The Vale,43,1,5,10,0,12,10,30,4,0,10,30,20,10,9,30,90,40,100,2,4,0,2,2,24,1,10,1,1
+Atlantis,20,100,300,50,100,25,300,900,400,500,250,200,40,20,12,4,3,10,10,100,-5,-20,-20,-50,-5,-10,-14,-20,-1
+Dinotopoia,15,100,100,200,300,10,400,100,200,1000,100,20,30,10,5,2,5,15,7,200,-2,-400,-80,-20,-20,-20,-23,-20,-5
+Erewhon,21,300,300,400,100,100,30,2600,100,2000,2000,30,30,20,15,8,2,15,10,100,-10,-30,-20,-100,-120,-30,-20,-10,-3
+King's Landing,80,200,300,300,200,200,100,100,200,2000,200,100,100,60,30,7,1,60,40,150,-3,-200,-10,-20,-23,-98,-100,-25,-20
+The Vale,43,250,20,100,54,300,100,320,100,1000,500,250,20,20,18,5,3,40,20,80,-10,-100,-50,-45,-50,-10,-20,-100,-18
